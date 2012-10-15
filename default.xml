@@ -215,7 +215,7 @@
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/av" name="AOKP/frameworks_av" remote="aokp" revision="jb" />
-  <project path="frameworks/base" name="AOKP/frameworks_base" remote="aokp" revision="jb" />
+  <project path="frameworks/base" name="couga6442/frameworks_base" remote="aokp" revision="jb" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -223,7 +223,7 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/mff" name="platform/frameworks/mff" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/ml" name="platform/frameworks/ml" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="frameworks/native" name="AOKP/frameworks_native" remote="aokp" revision="jb" />
+  <project path="frameworks/native" name="Evervolv/android_frameworks_native" remote="aokp" revision="jb" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -239,11 +239,11 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="jellybean" />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="jellybean" />
-  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="jellybean" />
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="jellybean" />
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="jellybean" />
-  <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cm" revision="jellybean" />
-  <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="aokp" revision="jb" />
+  <project path="hardware/qcom/audio" name="Evervolv/android_hardware_qcom_audio" remote="aokp" revision="jellybean" />
+  <project path="hardware/qcom/display" name="Evervolv/android_hardware_qcom_display" remote="aokp" revision="jellybean" />
+  <project path="hardware/qcom/gps" name="Evervolv/android_hardware_qcom_gps" remote="aokp" revision="jellybean" />
+  <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" remote="aokp" revision="jellybean" />
+  <project path="hardware/ril" name="Evervolv/android_hardware_ril" remote="aokp" revision="jellybean" />
   <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="jellybean" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
